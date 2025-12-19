@@ -1,0 +1,28 @@
+.container{
+    padding-top:3%;
+    height: 40px;
+    width: 50px;
+}
+
+h2{
+    margin-top: 2%;
+    color: brown;
+}
+
+.card-row{
+    padding:20px;
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+}
+body{
+    background-color: rgb(40, 124, 180);
+}
+h1{
+    color: rgb(244, 240, 240);
+    background-color: rgba(105, 52, 12, 0.314);
+}
+
+/* h{
+    background-color: rgba(27, 37, 95, 0.411);
+} */
